@@ -7,12 +7,12 @@
 
 ## 目录结构
 ├── report/
-│ └── 大语言模型横向对比分析.pdf # 完整文档（环境、步骤、对比分析）
+│   └── 大语言模型横向对比分析.pdf      # 完整文档（环境、步骤、对比分析）
 └── screenshots/
-├── qianwen# Qwen 模型目录
-├── chatglm# chatglm 模型目录
-├── baichuan# baichuan 模型目录
-
+    ├── qianwen/                       # Qwen‑7B‑Chat
+    ├── chatglm/                       # ChatGLM3‑6B
+    └── baichuan/                      # Baichuan2‑7B‑Chat
+      
 ## 报告摘要
 
 - **实验目标**  
