@@ -6,10 +6,13 @@
 - **实验截图**（PNG/JPG，共 18 张）：存放于 `screenshots/` 目录
 
 ## 目录结构
-<pre> 
-    ```text 
-    . ├── report/ │ └── 大语言模型横向对比分析.pdf └── screenshots/ ├── qianwen/ # Qwen‑7B‑Chat ├── chatglm/ # ChatGLM3‑6B └── baichuan/ # Baichuan2‑7B‑Chat 
-    ``` </pre>
+.
+├── report/
+│   └── 大语言模型横向对比分析.pdf
+└── screenshots/
+    ├── qianwen/
+    ├── chatglm/
+    └── baichuan/
 
       
 ## 报告摘要
