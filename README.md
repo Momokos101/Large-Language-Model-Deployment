@@ -6,6 +6,7 @@
 - **实验截图**（PNG/JPG，共 18 张）：存放于 `screenshots/` 目录
 
 ## 目录结构
+```
 Large-Language-Model-Deployment/
 ├── report/
 │   └── 大语言模型横向对比分析.pdf    # 报告
@@ -14,7 +15,8 @@ Large-Language-Model-Deployment/
 │   ├── chatglm  # ChatGLM3-6B 截图
 │   └── baichuan # Baichuan2-7B-Chat 截图
 └── README.md
-      
+```
+
 ## 报告摘要
 
 - **实验目标**  
