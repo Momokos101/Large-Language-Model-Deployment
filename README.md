@@ -8,7 +8,7 @@
 ## 目录结构
 .
 ├── report/
-│ └── 大语言模型横向对比分析.pdf
+└── 大语言模型横向对比分析.pdf
 └── screenshots/
 ├── qianwen/ # Qwen-7B-Chat 截图
 ├── chatglm/ # ChatGLM3-6B 截图
